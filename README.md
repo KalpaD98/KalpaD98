@@ -7,8 +7,10 @@
 - 🌱 I’m currently learning Spring Boot , Angular , FLutter , MongoDB and apple Swift
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
-- ⚡ Fun fact: Coding is life
+
+
+### 📫 How to reach me: <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
+
 
 ### Connect with me 😎
 <p align="Left">
@@ -20,6 +22,7 @@
 </p>
 
 - 🥁 Below are only for public repositories
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KalpaD98)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpaD98&theme=tokyonight)
