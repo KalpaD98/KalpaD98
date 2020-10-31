@@ -19,7 +19,7 @@
    <a href="https://www.facebook.com/kalpaf/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
 
-🥁 Below are only for public repositories
+- 🥁 Below are only for public repositories
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KalpaD98)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpaD98&theme=tokyonight)
