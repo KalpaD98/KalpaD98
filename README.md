@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Time Capture system (2nd year industrial project)
-- 🌱 I’m currently learning Spring Boot , Angular , FLutter , MongoDB and apple Swift
+- 🌱 I’m currently learning Spring Boot , Angular , Flutter , MongoDB and apple Swift
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about ...
 
