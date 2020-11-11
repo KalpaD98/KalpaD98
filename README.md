@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on Time Capture system (2nd year industrial project)
 - 🌱 I’m currently learning Spring Boot , Angular , Flutter , MongoDB and apple Swift
 - 👯 I’m looking to collaborate on full stack projects
-- 💬 Ask me about ...
-
+- 💬 Ask me about anything 😉 
 
 ### 📫 How to reach me: <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 
