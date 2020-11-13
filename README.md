@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about anything 😉 
 
-### 📫 Wanna reach me ? :  <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="24" style="vertical-align:top; margin:10px"></a>
+### 📫 Wanna reach me ? :  <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:10px"></a>
 
 
 ### Connect with me 😎
