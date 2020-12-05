@@ -42,6 +42,6 @@
 
 📈 My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=KalpaD98&show_icons=true&theme=gotham" alt="KalpaD98" />
+ <img src="https://github-readme-stats.vercel.app/api?username=KalpaD98&show_icons=true&theme=gotham" alt="KalpaD98" style="float:left;" />
  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  style="float:right;" />
