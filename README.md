@@ -42,6 +42,6 @@
 
 <p style="text-align:center"> 📈 My GitHub Stats</p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=KalpaD98&show_icons=true&theme=gotham" alt="KalpaD98" style="float:left;" />
+ <img src="https://github-readme-stats.vercel.app/api?username=KalpaD98&show_icons=true&theme=gotham" alt="KalpaD98" align="left;" />
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  style="float:right;" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  align="right" />
