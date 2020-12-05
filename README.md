@@ -48,7 +48,5 @@
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="40" style="vertical-align:top; margin:10px">
  </a>
 </p>
-
-<p style="text-align:right"> 📈 My GitHub Stats</p>
  <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  align="right" />
