@@ -32,6 +32,7 @@
 ### 📫 Wanna reach me ? :  <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="16" style="vertical-align:top; margin:10px"></a>
 
 
+
 ### Connect with me 😎
 <p align="Left">
  <a href="https://www.linkedin.com/in/kalpa-d/" target="_blank" rel="noopener noreferrer"> 
@@ -49,5 +50,5 @@
 </p>
 
 <p style="text-align:center"> 📈 My GitHub Stats</p>
- 
+ <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  align="right" />
