@@ -49,6 +49,6 @@
  </a>
 </p>
 
-<p style="text-align:center"> 📈 My GitHub Stats</p>
+<p style="text-align:right"> 📈 My GitHub Stats</p>
  <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  align="right" />
