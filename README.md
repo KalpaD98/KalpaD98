@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about anything related to below technologies 😉 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:**  
 
@@ -48,7 +49,5 @@
 </p>
 
 <p style="text-align:center"> 📈 My GitHub Stats</p>
-
- <img src="https://github-readme-stats.vercel.app/api?username=KalpaD98&show_icons=true&theme=gotham" alt="KalpaD98" align="left;" />
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpaD98&" alt="KalpaD98"  align="right" />
