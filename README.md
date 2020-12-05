@@ -40,7 +40,7 @@
    <a href="https://www.facebook.com/kalpaf/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
 
-📈 My GitHub Stats
+<p style="text-align:center"> 📈 My GitHub Stats</p>
 
  <img src="https://github-readme-stats.vercel.app/api?username=KalpaD98&show_icons=true&theme=gotham" alt="KalpaD98" style="float:left;" />
  
