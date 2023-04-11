@@ -1,11 +1,11 @@
 ### Hi I'm Kalpa D. Fernando 👋
 
 
-- 🔭  I’m currently working on Time Capture system (2nd year industrial project)
-- 🌱  I’m currently learning Spring Boot , Angular , Flutter , MongoDB and apple Swift
-- 👯  I’m looking to collaborate on full stack projects
+- 🔭  I’m currently working on Resbot (final year research project)
+- 🌱  While studying Machine Learning, Neural Networks , Deep Learning , Rasa Framework and MongoDB.
+- 👯  I’m looking to collaborate on full stack projects and machine learning projects
 - 💬  Ask me about anything related to below technologies 😉 
-- 📝  I write articles on Medium
+- 📝  I also write  tech articles on Medium.com
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
