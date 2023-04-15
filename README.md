@@ -29,9 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
 
-### 📫 Wanna reach me? :  <a href="mailto:kalpafernando1998@gmail.com">
-<img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" height="22" style="vertical-align:top; margin:10px"/>
-</a>
+### 📫 Wanna reach me? : <a href="mailto:kalpafernando1998@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" height="22" style="vertical-align:top; margin:10px"/> </a>
 
 ### Connect with me 😎
 
