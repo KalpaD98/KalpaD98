@@ -1,8 +1,7 @@
 ### Hi, I'm Kalpa D. Fernando 👋
 
 
-- 🔭  I’m currently Studying Masters in Computer Science for Software Engineering and Machine Learning.
-- 🌱  While studying Machine Learning, Neural Networks, Deep Learning, Rasa Framework and MongoDB.
+- 🔭  I’m currently Studying Masters in Computer Science at University of Genova, Italy.
 - 👯  I’m looking to collaborate on full-stack projects and machine learning projects.
 - 💬  Ask me about anything related to the below technologies 😉 
 - 📝  I also write tech articles on Medium.com.
