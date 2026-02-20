@@ -4,7 +4,7 @@
 - 🔭  I’m currently Studying Masters in Computer Science at University of Genova, Italy.
 - 👯  I’m looking to collaborate on full-stack projects and machine learning projects.
 - 💬  Ask me about anything related to the below technologies 😉 
-- 📝  I also write tech articles on Medium.com.
+- 📝  I also write tech articles on [Medium](https://medium.com/@kalpafernando1998) and [KalpaDF.com](https://kalpadf.com)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
